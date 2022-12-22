@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolishNotation", "PolishNotation\PolishNotation.csproj", "{76E8461B-444B-4674-AE57-E967D9451234}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishForm", "PolishForm\PolishForm.csproj", "{5B18872C-5340-40A3-A300-BFED10ED7E14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{76E8461B-444B-4674-AE57-E967D9451234}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E8461B-444B-4674-AE57-E967D9451234}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E8461B-444B-4674-AE57-E967D9451234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B18872C-5340-40A3-A300-BFED10ED7E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B18872C-5340-40A3-A300-BFED10ED7E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B18872C-5340-40A3-A300-BFED10ED7E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B18872C-5340-40A3-A300-BFED10ED7E14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
